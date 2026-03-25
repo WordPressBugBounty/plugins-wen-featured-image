@@ -1,3 +1,11 @@
+<?php
+
+if (! defined('ABSPATH')) {
+	exit; // Exit if accessed directly.
+}
+
+?>
+
 <div class="meta-box-sortables">
 
 	<div class="postbox">
@@ -34,14 +42,14 @@
 			</ul>
 
 			<h4>WordPress Plugins</h4>
-				<ul>
-					<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-logo-slider/" target="_blank">WEN Logo Slider</a></li>
-					<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-skill-charts/" target="_blank">WEN Skill Charts</a></li>
-					<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-featured-image/" target="_blank">WEN Featured Image</a></li>
-					<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-map-marker/" target="_blank">WEN Map Marker</a></li>
-					<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-responsive-columns/" target="_blank">WEN Responsive Columns</a></li>
-					<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-call-to-action/" target="_blank">WEN Call To Action</a></li>
-				</ul>
+			<ul>
+				<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-logo-slider/" target="_blank">WEN Logo Slider</a></li>
+				<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-skill-charts/" target="_blank">WEN Skill Charts</a></li>
+				<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-featured-image/" target="_blank">WEN Featured Image</a></li>
+				<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-map-marker/" target="_blank">WEN Map Marker</a></li>
+				<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-responsive-columns/" target="_blank">WEN Responsive Columns</a></li>
+				<li><a href="http://wenthemes.com/item/wordpress-plugins/wen-call-to-action/" target="_blank">WEN Call To Action</a></li>
+			</ul>
 		</div> <!-- .inside -->
 
 	</div> <!-- .postbox -->

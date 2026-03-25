@@ -3,8 +3,8 @@ Contributors: wenthemes
 Donate link: https://wenthemes.com
 Tags: image, featured image, admin, media, upload, images,
 Requires at least: 4.0
-Tested up to: 6.5
-Stable tag: trunk
+Tested up to: 6.9
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -61,6 +61,12 @@ Nice, make a post on the [Support Forum](http://wordpress.org/support/plugin/wen
 2. Plugin Settings
 
 == Changelog ==
+
+= 2.0 - Mar 25 2026 =
+* Fix: Load text domain
+* Fix: missing_direct_file_access_protection
+* Fix: WordPress.Security.EscapeOutput.OutputNotEscaped
+* Compatibility tested upto WordPress 6.9
 
 = 1.5.3 - Mar 17 2024 =
 * Compatibility tested upto WordPress 6.5
